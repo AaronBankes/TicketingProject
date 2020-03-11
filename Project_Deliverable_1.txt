@@ -1,0 +1,6 @@
+CS 3354 Software Engineering
+Final Project Dilverable 1
+
+
+Athletic Complex Ticketing System
+Aaron Bankes, Adhiraj Sen, Ben Parser, Harrison Hamric, Levin Sam, Omkar Jagdale, Rishab Nair
