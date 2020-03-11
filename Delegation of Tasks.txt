@@ -1,0 +1,6 @@
+Functional Requirements: Harrison Hamric
+Non-Functional Requirements - Levin Sam
+Case Diagram: Omkar Jagdale
+Sequence Diagram: Rishab Nair
+Class Diagram: Ben Paser
+Architectural Design - Aaron Bankes
