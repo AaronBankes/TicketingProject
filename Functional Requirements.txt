@@ -1,0 +1,6 @@
+1. A user shall be able to search all available events for our athletic complex within 3 weeks.
+2. A user shall be able to see available seats for each event that they select.
+3. A user shall be able to see the price for each seat that is available for the event they select.
+4. The system will provide secure payment system for end users who pay with their credit card.
+5. The system will be highly available, not going down or crashing especially during times of high traffic.
+6. Users will provide an email and password to recieve the tickets.
