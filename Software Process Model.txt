@@ -1,3 +1,6 @@
 Our software process model is going to be Agile. 
 
-Why: It is the most common and widely used software process model, meaning getting experience in the agile development system will be beneficial to the team. We are using github which benefits the idea of doing incremental delivery and changes. We want the team to work together and communicate their progress, which is provided by agile. We will also use sprints to complete the project in increments. 
+Why: It is the most common and widely used software process model, meaning getting experience in the agile development system will be beneficial to the team. 
+We are using github which benefits the idea of doing incremental delivery and changes. 
+We want the team to work together and communicate their progress, which is provided by agile. 
+We will also use sprints to complete the project in increments. 
