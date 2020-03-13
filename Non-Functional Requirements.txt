@@ -1,3 +1,9 @@
 1. The system will be available in all locations from Monday to Saturday (8:30 AM - 4:30 PM). 
 2. The system will be able to generate all events with open seats for the user in approximately five seconds.
-3. Routine maintenance of the system will have a downtime of 
+3. Each system will be able to hold 5000 sporting events for ticket booking per location.
+3. Routine maintenance of the system will have a downtime of approximately seven seconds (at most).
+4. The system will only allow administrators and engineers of the product to make changes to how the system will perform through a verifiable employee identification number and separate passcode.
+5. The system will undergo routine development with specific updates every Sunday.
+6. The system will only use customer's information for payment purposes and optionally for advertising other sporting events through email
+7. Following federal legislation, the system will ensure a specific tax amount is added to the ticket price which will be paid to the state and federal government.
+8. Using a secure transaction method to process payment, the system will provide a safe and secure way to transfer money. 
