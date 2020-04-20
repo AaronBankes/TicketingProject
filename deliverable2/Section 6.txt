@@ -1,0 +1,14 @@
+As ticket bookings for various sports around the world are expanding and growing at a rapid rate, the Athletic Complex Ticketing Service
+will prove to be an innovation that will aid customers and businesses by incorpating a smooth system to purchase tickets and providing 
+a secure transaction between the user and the business. Our service will have an effective algorithm to guarantee customer satisfaction
+by quickly generating up to 5000 events that will be happening within 3 weeks for the customer to look through and determine the most
+feasible ticket prices. The system will be modeled as a client-server architecture, which will be critical in implementing a strong and
+centralized security system that will be capable of load balancing during peak hours of system usage. Although the Athletic Complex
+Service can be compared to other popular ticketing systems, our system's unique user interface design and fast checkout system
+will make ticket bookings quick and simple for the customer. From the beginning of the project, our team was effective and clear regarding
+the various aspects and goals of our system and what we wanted to accomplish throughout the design. There was only some deviation in 
+determining the number of events that we thought our system could successfully display to the user, where some members argued that 5000
+events may be too much for the system. However, by establishing an efficient algorithm for the system, we came to a consensus that the
+system can handle up to 5000 events without causing major slowdowns or malfunctions for the customer's use. We are looking forward to 
+distributing and implementing the system in as many locations as possible so every sports fanatic can have the opportunity to 
+book the next big sports event!
